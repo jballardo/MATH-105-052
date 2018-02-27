@@ -3,7 +3,7 @@
 ### Instructor
 Joseph Ballardo
 
-**E-mail** ballardo@umich.edu
+**E-mail:** ballardo@umich.edu
 
 ### Lectures
 - Monday 4:00 PM - 5:30 PM MH 3451
