@@ -33,7 +33,7 @@ An explanation of the grading scheme can be found in the [student guide](http://
 The grading scheme is as follows:
 
 **Uniform Component**
--Exam 1: 25%
--Exam 2: 30%
--Exam 3 (Final): 40%
--Webwork (Online HW): 5%
+- Exam 1: 25%
+- Exam 2: 30%
+- Exam 3 (Final): 40%
+- Webwork (Online HW): 5%
