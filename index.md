@@ -16,3 +16,7 @@ Joseph Ballardo
 - Friday 10 AM - 11 AM
 
 If you cannot make any of those office hours, I am more than willing to schedule alternative office hours with you!
+
+# Course Description
+
+This course presents the concepts of precalculus from four points of view: geometric (graphs), numeric (tables), symbolic (formulas), and written (verbal descriptions). The emphasis is on the mathematical modeling of real-life problems using linear, polynomial, exponential, logarithmic, and trigonometric functions. Students develop their reading, writing, and questioning skills in an interactive classroom setting.
