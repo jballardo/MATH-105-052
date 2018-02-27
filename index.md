@@ -23,5 +23,5 @@ This course presents the concepts of precalculus from four points of view: geome
 
 ## Textbook 
 
-Data, Functions, and Graphs - Math 105, University of Michigan Functions Modeling Change: A Preparation for Calculus 
+Functions Modeling Change: A Preparation for Calculus  
 Connally, Hughes-Hallett, Gleason, et. al. 5th Edition (New edition)
