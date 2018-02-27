@@ -48,3 +48,8 @@ Grades are posted via Canvas.
 - Exam 1: Thursday, February 8th, 6:00 PM - 7:30 PM
 - Exam 2: Tuesday, March 20th, 6:00 PM - 7:30 PM
 - Exam 3: Thursday, April 19th, 8:00 AM - 10:00 AM
+
+## Quizzes
+
+Below are the quizzes we've taken so far. Starting from Quiz 6, solutions will be posted with every quiz.
+
