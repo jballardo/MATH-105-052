@@ -1,7 +1,7 @@
 ## Course Webpage
 
 ### Instructor
-Joseph Ballardo
+Joseph (Joe) Ballardo
 
 **E-mail:** ballardo [at] umich [dot] edu
 
@@ -56,6 +56,7 @@ Grades are posted via Canvas.
 ## Quizzes
 
 Below are the quizzes we've taken so far. If the solution for a quiz isn't listed, this means we went over the solutions in class. If you want a PDF of the solutions, feel free to request them.
+- Quiz 1: [\[Document\]](105StudentGuideQuizSample.pdf)
 - Quiz 2: [\[Document\]](Quiz2.pdf) Solutions gone over in class
 - Quiz 3: [\[Document\]](Quiz3_2.pdf) Solutions gone over in class
 - Quiz 4: [\[Document\]](Quiz_4_2.pdf) [\[Solutions\]](Quiz4_2_solution.pdf)
