@@ -23,5 +23,17 @@ This course presents the concepts of precalculus from four points of view: geome
 
 ## Textbook 
 
-Functions Modeling Change: A Preparation for Calculus  
-Connally, Hughes-Hallett, Gleason, et. al. 5th Edition (New edition)
+**Functions Modeling Change: A Preparation for Calculus**  Connally, Hughes-Hallett, Gleason, et. al. 5th Edition (New edition)
+The textbook is used everyday in class for group work assignments. Please bring your textbooks to class everyday.
+
+## Grading
+
+An explanation of the grading scheme can be found in the [student guide](http://www.math.lsa.umich.edu/courses/sg/) located on the [course webpage](http://www.math.lsa.umich.edu/courses/105/). 
+
+The grading scheme is as follows:
+
+**Uniform Component**
+Exam 1: 25%
+Exam 2: 30%
+Exam 3 (Final): 40%
+Webwork (Online HW): 5%
