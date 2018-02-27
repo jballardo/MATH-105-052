@@ -25,7 +25,9 @@ This course presents the concepts of precalculus from four points of view: geome
 
 ## Textbook 
 
-**Functions Modeling Change: A Preparation for Calculus**  Connally, Hughes-Hallett, Gleason, et. al. 5th Edition (New edition)
+**Functions Modeling Change: A Preparation for Calculus**  Connally, Hughes-Hallett, Gleason, et. al. 5th Edition (New edition).
+
+
 The textbook is used everyday in class for group work assignments. Please bring your textbooks to class everyday.
 
 ## Grading
@@ -53,8 +55,7 @@ Grades are posted via Canvas.
 
 ## Quizzes
 
-Below are the quizzes we've taken so far. Starting from Quiz 6, solutions will be posted with every quiz.
-
+Below are the quizzes we've taken so far. If the solution for a quiz isn't listed, this means we went over the solutions in class. If you want a PDF of the solutions, feel free to request them.
 - Quiz 2: [\[Document\]](Quiz2.pdf) Solutions gone over in class
 - Quiz 3: [\[Document\]](Quiz3_2.pdf) Solutions gone over in class
 - Quiz 4: [\[Document\]](Quiz_4_2.pdf) [\[Solutions\]](Quiz4_2_solution.pdf)
@@ -74,3 +75,4 @@ Below are the quizzes we've taken so far. Starting from Quiz 6, solutions will b
 
 ## Supplementary Material
 - [\[Inverse Functions\]](inverse_functions.pdf)
+- Study Sheet (This is something that I will make soon. It will try to capture as much of the important information covered in class. This will update throughout the semester)
