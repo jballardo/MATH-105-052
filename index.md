@@ -20,3 +20,8 @@ If you cannot make any of those office hours, I am more than willing to schedule
 ## Course Description
 
 This course presents the concepts of precalculus from four points of view: geometric (graphs), numeric (tables), symbolic (formulas), and written (verbal descriptions). The emphasis is on the mathematical modeling of real-life problems using linear, polynomial, exponential, logarithmic, and trigonometric functions. Students develop their reading, writing, and questioning skills in an interactive classroom setting.
+
+## Textbook 
+
+Data, Functions, and Graphs - Math 105, University of Michigan Functions Modeling Change: A Preparation for Calculus 
+Connally, Hughes-Hallett, Gleason, et. al. 5th Edition (New edition)
