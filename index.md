@@ -37,3 +37,14 @@ The grading scheme is as follows:
 - Exam 2: 30%
 - Exam 3 (Final): 40%
 - Webwork (Online HW): 5%
+
+**Section Component**
+- Quizzes: 40%
+- Assignments: 60%
+
+Grades are posted via Canvas.
+
+**Exam Dates**
+- Exam 1: Thursday, February 8th, 6:00 PM - 7:30 PM
+- Exam 2: Tuesday, March 20th, 6:00 PM - 7:30 PM
+- Exam 3: Thursday, April 19th, 8:00 AM - 10:00 AM
