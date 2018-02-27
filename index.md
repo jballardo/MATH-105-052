@@ -19,6 +19,8 @@ If you cannot make any of those office hours, I am more than willing to schedule
 
 ## Course Description
 
+[Syllabus](Math105_W18_Syllabus.pdf)
+
 This course presents the concepts of precalculus from four points of view: geometric (graphs), numeric (tables), symbolic (formulas), and written (verbal descriptions). The emphasis is on the mathematical modeling of real-life problems using linear, polynomial, exponential, logarithmic, and trigonometric functions. Students develop their reading, writing, and questioning skills in an interactive classroom setting.
 
 ## Textbook 
@@ -59,3 +61,16 @@ Below are the quizzes we've taken so far. Starting from Quiz 6, solutions will b
 - Quiz 5: [\[Document\]](Quiz5_2.pdf) Solutions gone over in class
 - Quiz 6: [\[Document\]](Quiz6.pdf) [\[Solutions\]](Quiz_6_soln.pdf)
 - Take Home Quiz (Optional): [\[Document\]](Take_Home_Quiz.pdf)
+
+## Topics Covered
+
+**Current Week:**
+- Will
+- Be
+- Updated
+
+**Previous Weeks:**
+- Will be updated
+
+## Supplementary Material
+- [\[Inverse Functions\]](inverse_functions.pdf)
