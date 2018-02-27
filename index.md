@@ -53,8 +53,8 @@ Grades are posted via Canvas.
 
 Below are the quizzes we've taken so far. Starting from Quiz 6, solutions will be posted with every quiz.
 
-- [Quiz 2](Quiz2.pdf)
-- [Quiz 3](Quiz3_2.pdf)
-- [Quiz 4](Quiz 4_2.pdf)
-- [Quiz 5](Quiz5_2.pdf)
-- [Quiz 6](Quiz6.pdf) [Solutions](Quiz 6 soln.pdf)
+- [Quiz 2](Quiz2.pdf) Solutions gone over in class
+- [Quiz 3](Quiz3_2.pdf) Solutions gone over in class
+- [Quiz 4](Quiz_4_2.pdf) [Solutions](Quiz4_2_solution.pdf)
+- [Quiz 5](Quiz5_2.pdf) Solutions gone over in class
+- [Quiz 6](Quiz6.pdf) [Solutions](Quiz_6_soln.pdf)
