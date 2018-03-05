@@ -67,9 +67,9 @@ Below are the quizzes we've taken so far. If the solution for a quiz isn't liste
 ## Topics Covered
 
 **Current Week: 10**
-- 7.1: Periodic Functions
-- 7.2: Sine and Cosine Functions
-- 8.1: Trigonometric Functions and Right Triangles
+- Monday: 7.1 (Periodic Functions)
+- Tuesday: 7.2 (Sine and Cosine Functions)
+- Thursday: 8.1 (Trigonometric Functions and Right Triangles)
 
 **Previous Weeks:**
 - Will be updated
