@@ -66,13 +66,15 @@ Below are the quizzes we've taken so far. If the solution for a quiz isn't liste
 
 ## Topics Covered
 
-**Current Week: 10**
+**Current Week:**
+- Monday: 7.3 (Radians)
+- Tuesday: 7.4 and 7.6 (Graphs of Sine and Cosine + Tangent Function + Cosecant/Secant/Cotangent)
+- Thursday: 7.5 (Sinusoidal Functions)
+
+**Previous Week:**
 - Monday: 7.1 (Periodic Functions)
 - Tuesday: 7.2 (Sine and Cosine Functions)
 - Thursday: 8.1 (Trigonometric Functions and Right Triangles)
-
-**Previous Weeks:**
-- Will be updated
 
 ## Supplementary Material
 - [\[Inverse Functions\]](inverse_functions.pdf)
