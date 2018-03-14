@@ -63,6 +63,7 @@ Below are the quizzes we've taken so far. If the solution for a quiz isn't liste
 - Quiz 5: [\[Document\]](Quiz5_2.pdf) Solutions gone over in class
 - Quiz 6: [\[Document\]](Quiz6.pdf) [\[Solutions\]](Quiz_6_soln.pdf)
 - Take Home Quiz (Optional): [\[Document\]](Take_Home_Quiz.pdf) [\[Solutions\]](Take_Home_Quiz_Sol.pdf)
+- Attendance Quiz 1: [\[Document\]](Attendance_Quiz_1.pdf) Solutions gone over in class (Refer to Fall 2017 Exam 2 Prob. 8 Solution)
 
 ## Topics Covered
 
