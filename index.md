@@ -64,19 +64,22 @@ Below are the quizzes we've taken so far. If the solution for a quiz isn't liste
 - Quiz 6: [\[Document\]](Quiz6.pdf) [\[Solutions\]](Quiz_6_soln.pdf)
 - Take Home Quiz (Optional): [\[Document\]](Take_Home_Quiz.pdf) [\[Solutions\]](Take_Home_Quiz_Sol.pdf)
 - Attendance Quiz 1: [\[Document\]](Attendance_Quiz_1.pdf) Solutions gone over in class (Refer to Fall 2017 Exam 2 Prob. 8 Solution)
+- Quiz 7: [\[Document\](Quiz_7_2.pdf) [\[Solutions\](Quiz_7_Sol.pdf)
+- Exam Groupwork: [\[Document\](Exam_Groupwork.pdf) [\Solutions\](Exam_Groupwork_Solution.pdf)
 
 ## Topics Covered
 
 **Current Week:**
+- Monday: Review 1
+- Tuesday: Review 2
+- Thursday: 7.5 (Sinusoidal Functions)
+
+**Previous Week:**
 - Monday: 7.3 (Radians)
 - Tuesday: 7.4 and 7.6 (Graphs of Sine and Cosine + Tangent Function + Cosecant/Secant/Cotangent)
 - Thursday: 7.5 (Sinusoidal Functions)
 
-**Previous Week:**
-- Monday: 7.1 (Periodic Functions)
-- Tuesday: 7.2 (Sine and Cosine Functions)
-- Thursday: 8.1 (Trigonometric Functions and Right Triangles)
-
 ## Supplementary Material
 - [\[Inverse Functions\]](inverse_functions.pdf)
+- [\Features of Sin(x) and Cos(x)\](Sinusoidal_Features.pdf)
 - Study Sheet (This is something that I will make soon. It will try to capture as much of the important information covered in class. This will update throughout the semester)
