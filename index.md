@@ -50,7 +50,7 @@ Grades are posted via Canvas.
 
 **Exam Dates**
 - Exam 1: Thursday, February 8th, 6:00 PM - 7:30 PM
-- Exam 2: Tuesday, March 20th, 6:00 PM - 7:30 PM
+- Exam 2: Tuesday, March 20th, 6:00 PM - 7:30 PM (Weis 182)
 - Exam 3: Thursday, April 19th, 8:00 AM - 10:00 AM
 
 ## Quizzes
@@ -64,8 +64,8 @@ Below are the quizzes we've taken so far. If the solution for a quiz isn't liste
 - Quiz 6: [\[Document\]](Quiz6.pdf) [\[Solutions\]](Quiz_6_soln.pdf)
 - Take Home Quiz (Optional): [\[Document\]](Take_Home_Quiz.pdf) [\[Solutions\]](Take_Home_Quiz_Sol.pdf)
 - Attendance Quiz 1: [\[Document\]](Attendance_Quiz_1.pdf) Solutions gone over in class (Refer to Fall 2017 Exam 2 Prob. 8 Solution)
-- Quiz 7: [\[Document\](Quiz_7_2.pdf) [\[Solutions\](Quiz_7_Sol.pdf)
-- Exam Groupwork: [\[Document\](Exam_Groupwork.pdf) [\Solutions\](Exam_Groupwork_Solution.pdf)
+- Quiz 7: [\[Document\]](Quiz_7_2.pdf) [\[Solutions\]](Quiz_7_Sol.pdf)
+- Exam Groupwork: [\[Document\]](Exam_Groupwork.pdf) [\Solutions\]](Exam_Groupwork_Solution.pdf)
 
 ## Topics Covered
 
@@ -81,5 +81,5 @@ Below are the quizzes we've taken so far. If the solution for a quiz isn't liste
 
 ## Supplementary Material
 - [\[Inverse Functions\]](inverse_functions.pdf)
-- [\Features of Sin(x) and Cos(x)\](Sinusoidal_Features.pdf)
+- [\[Features of Sin(x) and Cos(x)\]](Sinusoidal_Features.pdf)
 - Study Sheet (This is something that I will make soon. It will try to capture as much of the important information covered in class. This will update throughout the semester)
