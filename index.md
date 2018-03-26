@@ -70,13 +70,13 @@ Below are the quizzes we've taken so far. If the solution for a quiz isn't liste
 ## Topics Covered
 
 **Current Week:**
-- Monday: Review 1
-- Tuesday: Review 2
-- Thursday: 7.5 (Sinusoidal Functions)
+- Monday: 7.8 (Inverse Trig Functions)
+- Tuesday: 9.1 (Inverse Trig Functions)
+- Thursday: 10.2 (Inverse Functions)
 
 **Previous Week:**
-- Monday: 7.3 (Radians)
-- Tuesday: 7.4 and 7.6 (Graphs of Sine and Cosine + Tangent Function + Cosecant/Secant/Cotangent)
+- Monday: Review 1
+- Tuesday: Review 2
 - Thursday: 7.5 (Sinusoidal Functions)
 
 ## Supplementary Material
