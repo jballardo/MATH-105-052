@@ -80,6 +80,6 @@ Below are the quizzes we've taken so far. If the solution for a quiz isn't liste
 - Thursday: 7.5 (Sinusoidal Functions)
 
 ## Supplementary Material
-- [\[Inverse Functions\]](inverse_functions.pdf)
-- [\[Features of Sin(x) and Cos(x)\]](Sinusoidal_Features.pdf)
-- [\[Inverse Trig (Graphical Approach)\]](7_9_8_1_supplement.pdf)
+- [Inverse Functions](inverse_functions.pdf)
+- [Features of sin(x) and cos(x)](Sinusoidal_Features.pdf)
+- [Inverse Trig (Graphical Approach)](7_9_8_1_supplement.pdf)
