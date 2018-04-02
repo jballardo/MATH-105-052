@@ -66,20 +66,22 @@ Below are the quizzes we've taken so far. If the solution for a quiz isn't liste
 - Attendance Quiz 1: [\[Document\]](Attendance_Quiz_1.pdf) Solutions gone over in class (Refer to Fall 2017 Exam 2 Prob. 8 Solution)
 - Quiz 7: [\[Document\]](Quiz_7_2.pdf) [\[Solutions\]](Quiz_7_Sol.pdf)
 - Exam Groupwork: [\[Document\]](Exam_Groupwork.pdf) [\[Solutions\]](Exam_Groupwork_Solution.pdf)
+- Quiz 8: [\[Document\]] (Quiz_8_2.pdf) [\[Solution\]] (Quiz_8_Sol.pdf)
 
 ## Topics Covered
 
 **Current Week:**
+- Monday: 10.1 (Composition of Functions)
+- Tuesday: 10.3 (Combination of Functions)
+- Thursday: 11.1 (Inverse Functions)
+
+**Previous Week:**
 - Monday: 7.8 (Inverse Trig Functions)
 - Tuesday: 9.1 (Inverse Trig Functions)
 - Thursday: 10.2 (Inverse Functions)
 
-**Previous Week:**
-- Monday: Review 1
-- Tuesday: Review 2
-- Thursday: 7.5 (Sinusoidal Functions)
-
 ## Supplementary Material
 - [Inverse Functions](inverse_functions.pdf)
 - [Features of sin(x) and cos(x)](Sinusoidal_Features.pdf)
-- [Inverse Trig (Graphical Approach)](7_9_8_1_supplement.pdf)
+- [Inverse Trig (Graphical Approach)](7_8_9_1_supplement.pdf)
+- [10.1 Lecture Notes](10_1_Lecture_Notes.pdf)
