@@ -66,7 +66,7 @@ Below are the quizzes we've taken so far. If the solution for a quiz isn't liste
 - Attendance Quiz 1: [\[Document\]](Attendance_Quiz_1.pdf) Solutions gone over in class (Refer to Fall 2017 Exam 2 Prob. 8 Solution)
 - Quiz 7: [\[Document\]](Quiz_7_2.pdf) [\[Solutions\]](Quiz_7_Sol.pdf)
 - Exam Groupwork: [\[Document\]](Exam_Groupwork.pdf) [\[Solutions\]](Exam_Groupwork_Solution.pdf)
-- Quiz 8: [\[Document\]] (Quiz_8_2.pdf) [\[Solution\]] (Quiz_8_Sol.pdf)
+- Quiz 8: [\[Document\]](Quiz_8_2.pdf) [\[Solution\]](Quiz_8_Sol.pdf)
 
 ## Topics Covered
 
