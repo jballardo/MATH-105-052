@@ -51,7 +51,7 @@ Grades are posted via Canvas.
 **Exam Dates**
 - Exam 1: Thursday, February 8th, 6:00 PM - 7:30 PM
 - Exam 2: Tuesday, March 20th, 6:00 PM - 7:30 PM (Weis 182)
-- Exam 3: Thursday, April 19th, 8:00 AM - 10:00 AM
+- Exam 3: Thursday, April 19th, 8:00 AM - 10:00 AM (EH 1324)
 
 ## Quizzes
 
@@ -67,18 +67,19 @@ Below are the quizzes we've taken so far. If the solution for a quiz isn't liste
 - Quiz 7: [\[Document\]](Quiz_7_2.pdf) [\[Solutions\]](Quiz_7_Sol.pdf)
 - Exam Groupwork: [\[Document\]](Exam_Groupwork.pdf) [\[Solutions\]](Exam_Groupwork_Solution.pdf)
 - Quiz 8: [\[Document\]](Quiz_8_2.pdf) [\[Solution\]](Quiz_8_Sol.pdf)
+- Quiz 9: [\[Document\]](Quiz_9_2.pdf) [\[Solution\]](Quiz_9_2_sol.pdf)
 
 ## Topics Covered
 
 **Current Week:**
-- Monday: 10.1 (Composition of Functions)
-- Tuesday: 10.3 (Combination of Functions)
-- Thursday: 11.1 (Inverse Functions)
+- Monday: 11.6 (Comparing Power functions, Exp functions, and Log functions) + Review
+- Tuesday: Review
+- Thursday: Final! Good luck!
 
 **Previous Week:**
-- Monday: 7.8 (Inverse Trig Functions)
-- Tuesday: 9.1 (Inverse Trig Functions)
-- Thursday: 10.2 (Inverse Functions)
+- Monday: 11.2 - 11.3 (Polynomials + Short Run behavior)
+- Tuesday: 11.3 - 11.4 (Short Run Behavior of Polynomials + Rational Functions)
+- Thursday: 11.5 - 11.6 (Short Run and Long Run Behavior of Rationals + Comparison of Functions)
 
 ## Supplementary Material
 - [Inverse Functions](inverse_functions.pdf)
