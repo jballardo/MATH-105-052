@@ -86,3 +86,4 @@ Below are the quizzes we've taken so far. If the solution for a quiz isn't liste
 - [Features of sin(x) and cos(x)](Sinusoidal_Features.pdf)
 - [Inverse Trig (Graphical Approach)](7_8_9_1_supplement.pdf)
 - [10.1 Lecture Notes](10_1_Lecture_Notes.pdf)
+- [Fall Final 2017 Solutions](Final_Sol.pdf)
